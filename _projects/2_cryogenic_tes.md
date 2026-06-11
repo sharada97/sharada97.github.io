@@ -2,7 +2,7 @@
 layout: page
 title: Cryogenic Superconducting (TES) WIMP Detector
 description: Low-mass WIMP dark matter search using superconducting transition-edge sensors operated in a dilution refrigerator down to 8 mK.
-img: assets/img/2.jpg
+img: assets/img/tes_detector.jpg
 importance: 2
 category: physics
 related_publications: true
