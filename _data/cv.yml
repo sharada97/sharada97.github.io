@@ -1,189 +1,186 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Sharada Sahoo
+  label: Experimental Physicist
+  email: sharada@berkeley.edu
+  location: Berkeley, CA
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: >
+    PhD in Physics (GPA 4.0) with over four years' experience in production environments, collaborating
+    with engineers, physicists, and vendors to develop particle detectors for large-scale physics
+    experiments. Extensive background in semiconductor and superconductor material fabrication, photon
+    sensor characterization, and machine learning and data analysis using Python.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+      username: sharada97
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
+      - institution: Texas A&M University
+        location: College Station, TX
+        url: https://www.tamu.edu/
         area: Physics
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+        start_date: 2021
+        end_date: 2025
+        score: "CGPA 4.0/4.0"
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Dissertation: Dark matter searches using a ton-scale CsI(Tl) detector and a gram-scale superconducting sapphire detector."
+          - "Coursework: Quantum Mechanics I & II, Machine Learning, Statistics, Electromagnetism I & II, Condensed Matter Physics."
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
+      - institution: National Institute of Science Education and Research (NISER)
+        location: Bhubaneswar, India
+        url: https://www.niser.ac.in/
         area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+        studyType: BS-MS
+        start_date: 2016
+        end_date: 2021
+        score: "CGPA 8.0/10"
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Dissertation: Rare event search analysis using Si-based detectors."
+          - "Coursework: Quantum Mechanics I & II, Advanced Electronics, Quantum Information, Quantum Field Theory I & II, Condensed Matter Physics."
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Texas A&M University — CsI(Tl) Dark Matter & BSM Group
+        position: Graduate Research Assistant
+        location: College Station, TX
+        start_date: 2023
+        end_date: 2025
+        summary: BSM particle searches using radioisotopes with a CsI(Tl) detector.
         highlights:
-          - Relativity
-          - Description 2.
+          - "Designed and constructed a ~100 kg CsI(Tl) detector instrumented with PMTs; ton-scale proposal under review at LANL and ORNL."
+          - "Evaluated SiPM feasibility and facilitated group procurement of ~$200,000 in SiPMs and accessories from OnSemi."
+          - "Automated HV control and DAQ; collected 600+ hours of continuous data and developed real-time Python pipelines handling datasets up to ~100 TB."
+          - "Set sensitivity projections for ALP, Dark Photon, Dark Scalar, and Milli-Charged particles."
+          - "Characterized detectors with multiple radioisotopes (22Na, 57Co, 60Co, 133Ba, 46Sc, 137Cs, 90Sr, 55Fe, 241Am)."
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Texas A&M University — Cryogenic Detector Group
+        position: Graduate Research Assistant
+        location: College Station, TX
+        start_date: 2025
+        end_date: Present
+        summary: Cryogenic noise analysis and improvement efforts.
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Implemented EMI/RF shielding and grounding techniques, reducing noise by ~20% and enabling a first-ever low-mass WIMP detector."
+          - "Characterized thermal, Johnson, SQUID, and warm-electronics noise; collaborated with the UC Berkeley team."
+          - "Operated a Bluefors dilution refrigerator to 8 mK; integrated wiring and optimized hardware for TES stability."
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: Texas A&M University — AggieFab
+        position: Graduate Research Assistant
+        location: College Station, TX
+        start_date: 2024
+        end_date: 2024
+        summary: Josephson junction fabrication and qubit simulation.
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - "Fabricated Josephson junctions using an AJA sputtering machine for 40 nm Al deposition; patterned a three-layer Al/AlOx/Al stack."
+          - "Designed junction masks in K-Layout and used a Heidelberg MLA150 maskless aligner with S1800 photoresist."
+          - "Performed AFM/SEM thickness measurements and refined wet-etching parameters; documented procedures for the team."
+          - "Ran qubit simulations in Ansys HFSS and collaborated with SLAC to optimize antenna structures minimizing radiative noise."
+
+      - company: Texas A&M University — Superconducting Sensor Group
+        position: Graduate Assistant
+        location: College Station, TX
+        start_date: 2021
+        end_date: 2023
+        summary: WIMP dark matter search with superconducting cryogenic sensors.
+        highlights:
+          - "Developed automated Python analysis pipelines, eliminating 100% of manual workload."
+          - "Performed SQUID tuning and TES biasing using LabVIEW; ran large-scale DAQ with CAEN digitizers (ROOT/PyROOT)."
+          - "Achieved a baseline resolution of 40 eV; presented at EXCESS 2024."
+          - "Contributed to end-to-end experiment construction including dilution refrigerator operation and detector shielding."
+
+      - company: Texas A&M University — Low-Cost Strip PET Scanner
+        position: Graduate Mentor
+        location: College Station, TX
+        start_date: 2023
+        end_date: 2023
+        summary: Led development of a low-cost strip PET scanner using plastic scintillators and PMTs (~20x cheaper cancer detection).
+        highlights:
+          - "Demonstrated a single-strip plastic scintillator PET prototype at the TAMU Physics Festival 2023."
+          - "Mentored undergraduates in scintillator prep, DAQ setup, and Python analysis; achieved source localization within 1-inch error."
 
     Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - title: KVPY Fellowship
+        date: 2016
+        awarder: Government of India
+        summary: All India Rank 9.
+      - title: National Graduate Physics Examination (NGPE)
+        awarder: IAPT
+        summary: Top 1% nationally.
+      - title: NET
+        awarder: CSIR-UGC, India
+        summary: All India Rank 95.
+      - title: JEST
+        awarder: Joint Entrance Screening Test
+        summary: Cleared.
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: "Search for Dark Matter via Invisible Decay in 46Sc Nuclear Gamma Cascades Using a CsI(Tl) Detector"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+          - Sharada Sahoo et al.
+        releaseDate: 2025
+        url: https://arxiv.org/abs/2510.23001
+      - title: "A GEANT4-Based Simulation of Directional Neutron Detectors Using Liquid Scintillators and Boron Carbide Moderators"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+          - Sharada Sahoo et al.
+        releaseDate: 2025
+        url: https://arxiv.org/abs/2507.14438
+      - title: "MINER Reactor-Based Search for Axion-Like Particles Using Sapphire (Al2O3) Detectors"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - Sharada Sahoo et al.
+        releaseDate: 2025
+        url: https://arxiv.org/abs/2504.20960
+      - title: "Reactor-Based Search for Axion-Like Particles Using a CsI(Tl) Detector"
+        authors:
+          - Sharada Sahoo et al.
+        releaseDate: 2024
+        url: https://arxiv.org/abs/2407.14704
+      - title: "Development of a Large-Mass, Low-Threshold Detector System with Simultaneous Measurements of Athermal Phonons and Scintillation Light"
+        authors:
+          - Sharada Sahoo et al.
+        releaseDate: 2022
+        url: https://arxiv.org/abs/2212.04342
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Programming & Software
+        icon: fa-solid fa-code
+        keywords: "Python (5+ yrs), C/C++, NumPy, Pandas, SciPy, Scikit-learn, PyTorch, TensorFlow, Keras, ROOT/PyROOT, Mathematica, Qiskit, GEANT4, Ansys HFSS, K-Layout, Streamlit, LaTeX, Git"
+      - name: Device Fabrication & Characterization
+        icon: fa-solid fa-microchip
+        keywords: "DC/RF Sputtering, Mask & Maskless Aligner, Electron Beam Lithography, SEM, AFM, Optical Microscopy, DekTak, Wafer Dicing, Wet Etching"
+      - name: Experimental & Instrumentation
+        icon: fa-solid fa-wave-square
+        keywords: "PMTs, SiPMs, APDs, Silicon Photodiodes, Dilution Refrigerator (to 8 mK), 10K Cryostat, CAEN digitizers, Oscilloscopes, Picoscopes, HV/LV supplies, Circuit design"
+      - name: Soft Skills
+        icon: fa-solid fa-users
+        keywords: "Research management, Technical writing, Conference talks, Project coordination, Mentorship, Scientific communication, Public outreach"
 
-    Languages:
-      - name: German
-        summary: "Native speaker"
+    Leadership & Outreach:
+      - title: Teaching Assistant
+        summary: Taught 200+ undergraduates as a Teaching Assistant at Texas A&M.
+      - title: Mentorship
+        summary: Mentored 12+ undergraduate and graduate students on photon sensor experiments and Python analysis.
+      - title: TES Fabrication Workshop
+        summary: Conducted a 10-day TES fabrication workshop at NISER, India for 6 graduate students.
+      - title: Public Outreach
+        summary: Public outreach at the TAMU Physics Festival annually since 2022.
 
-      - name: English
-        summary: "Fluent"
+    Conferences & Seminars:
+      - title: APS (Texas APS 2023, APS 2024, APS 2025)
+        summary: Talks on axion searches and photon detector development.
+      - title: CIPANP 2025 — UW–Madison
+        summary: Dark matter search results presentation.
+      - title: UT Austin (2025)
+        summary: Seminar on axion and ALP searches.
+      - title: UC Berkeley (2025)
+        summary: Axion dark matter searches with CsI(Tl).
+      - title: NISER, India (2023)
+        summary: Seminar on superconducting TES sensor fabrication.
 
     Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Research
+        icon: fa-solid fa-atom
+        keywords: "Dark matter, Axion-like particles, Particle detectors, Superconducting sensors, Cryogenics, Machine learning"
+      - name: Outside the lab
+        icon: fa-solid fa-person-running
+        keywords: "Running (half marathons), Cricket, Badminton, Table Tennis, Swimming, Mountain Climbing, Music"

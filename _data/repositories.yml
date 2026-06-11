@@ -1,14 +1,12 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - sharada97
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - sharada97/Predicting_Stock_Market_Using_MCMC
+  - sharada97/Food_Calorie_prediction_ML
+  - sharada97/equipment-scheduler
+  - sharada97/ASCID_analysis
+  - sharada97/MINER_Analysis
+  - sharada97/Cavity_Simulation
