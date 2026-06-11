@@ -158,45 +158,45 @@ cv:
         keywords: "Research management, Technical writing, Conference talks, Project coordination, Mentorship, Scientific communication, Public outreach"
 
     Leadership & Outreach:
-      - title: Teaching Assistant
+      - name: Teaching Assistant
         summary: Taught 200+ undergraduates as a Teaching Assistant at Texas A&M.
-      - title: Mentorship
+      - name: Mentorship
         summary: Mentored 12+ undergraduate and graduate students on photon sensor experiments and Python analysis.
-      - title: TES Fabrication Workshop
+      - name: TES Fabrication Workshop
         summary: Conducted a 10-day TES fabrication workshop at NISER, India for 6 graduate students.
-      - title: Public Outreach
+      - name: Public Outreach
         summary: Public outreach at the TAMU Physics Festival annually since 2022.
 
     Conferences & Seminars:
-      - title: CIPANP 2025
+      - name: CIPANP 2025
         location: UW–Madison, WI
         date: 2025
         summary: Talk — Dark matter search results with the CsI(Tl) detector.
-      - title: UC Berkeley Seminar
+      - name: UC Berkeley Seminar
         location: Berkeley, CA
         date: 2025
         summary: Invited seminar — Axion dark matter searches with CsI(Tl).
-      - title: UT Austin Seminar
+      - name: UT Austin Seminar
         location: Austin, TX
         date: 2025
         summary: Invited seminar — Axion and ALP searches.
-      - title: APS April Meeting 2025
+      - name: APS April Meeting 2025
         date: 2025
         summary: Talk — Axion-like particle searches.
-      - title: APS April Meeting 2024
+      - name: APS April Meeting 2024
         date: 2024
         summary: Talk — Photon detector development for dark matter searches.
-      - title: EXCESS Workshop 2024
+      - name: EXCESS Workshop 2024
         date: 2024
         summary: Presented a 40 eV baseline resolution result from the superconducting cryogenic sensor program.
-      - title: TAMU Physics Festival
+      - name: TAMU Physics Festival
         location: College Station, TX
         date: 2024
         summary: Public outreach; demonstrated the strip PET scanner prototype (2023 & 2024).
-      - title: Texas APS Meeting 2023
+      - name: Texas APS Meeting 2023
         date: 2023
         summary: Talk — Axion searches and superconducting detector development.
-      - title: NISER Seminar
+      - name: NISER Seminar
         location: Bhubaneswar, India
         date: 2023
         summary: Seminar — Superconducting TES sensor fabrication.
