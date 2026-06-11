@@ -2,13 +2,22 @@
 layout: page
 title: Ton-Scale CsI(Tl) Dark Matter Detector
 description: Designing and building a ~100 kg CsI(Tl) scintillation detector for dark matter and BSM searches, with a ton-scale proposal under review.
-img: assets/img/1.jpg
+img: assets/img/csi_detector_design.png
 importance: 1
 category: physics
 related_publications: true
 ---
 
 I designed and constructed a ~100 kg CsI(Tl) detector instrumented with PMTs to search for dark matter and beyond-the-Standard-Model physics using radioisotope sources. A ton-scale extension is currently under proposal review at LANL and ORNL.
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-10 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/csi_detector_design.png" title="CsI(Tl) detector design" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Design of the CsI(Tl) detector.
+</div>
 
 Highlights:
 
