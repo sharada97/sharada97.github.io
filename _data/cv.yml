@@ -168,24 +168,15 @@ cv:
         details: Public outreach at the TAMU Physics Festival annually since 2022.
 
     Conferences and Seminars:
-      - label: CIPANP 2025, UW–Madison
-        details: Talk — Dark matter search results with the CsI(Tl) detector.
-      - label: UC Berkeley, 2025
-        details: Invited seminar — Axion dark matter searches with CsI(Tl).
-      - label: UT Austin, 2025
-        details: Invited seminar — Axion and ALP searches.
-      - label: APS April Meeting, 2025
-        details: Talk — Axion-like particle searches.
-      - label: APS April Meeting, 2024
-        details: Talk — Photon detector development for dark matter searches.
-      - label: EXCESS Workshop, 2024
-        details: Presented a 40 eV baseline resolution result from the superconducting cryogenic sensor program.
-      - label: TAMU Physics Festival, 2023 & 2024
-        details: Public outreach; demonstrated the strip PET scanner prototype.
-      - label: Texas APS Meeting, 2023
-        details: Talk — Axion searches and superconducting detector development.
-      - label: NISER, India, 2023
-        details: Seminar — Superconducting TES sensor fabrication.
+      - bullet: "**2025** — CIPANP, UW–Madison: Talk on dark matter search results with the CsI(Tl) detector."
+      - bullet: "**2025** — UC Berkeley: Invited seminar on axion dark matter searches with CsI(Tl)."
+      - bullet: "**2025** — UT Austin: Invited seminar on axion and ALP searches."
+      - bullet: "**2025** — APS April Meeting: Talk on axion-like particle searches."
+      - bullet: "**2024** — APS April Meeting: Talk on photon detector development for dark matter searches."
+      - bullet: "**2024** — EXCESS Workshop: Presented a 40 eV baseline resolution result from the superconducting cryogenic sensor program."
+      - bullet: "**2023–2024** — TAMU Physics Festival: Public outreach; demonstrated the strip PET scanner prototype."
+      - bullet: "**2023** — Texas APS Meeting: Talk on axion searches and superconducting detector development."
+      - bullet: "**2023** — NISER, India: Seminar on superconducting TES sensor fabrication."
 
     Interests:
       - name: Research
