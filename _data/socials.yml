@@ -4,8 +4,8 @@
 cv_pdf: /assets/pdf/resume.pdf # path to your CV PDF file
 email: sharada@berkeley.edu # your email address
 github_username: sharada97 # your GitHub user name
-# linkedin_username:  # TODO: add your LinkedIn vanity name (the part after /in/)
-scholar_userid:  # TODO: add your Google Scholar ID (the value after user= in your Scholar profile URL)
+linkedin_username: sharada-sahoo-177227230 # your LinkedIn vanity name (the part after /in/)
+scholar_userid: QK20JT8AAAAJ # your Google Scholar ID
 inspirehep_id: # Inspire HEP author ID (optional)
 orcid_id: # your ORCID iD (optional)
 rss_icon: true # comment this line to hide the RSS icon

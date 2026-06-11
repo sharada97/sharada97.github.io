@@ -13,6 +13,8 @@ cv:
   social_networks:
     - network: GitHub
       username: sharada97
+    - network: LinkedIn
+      username: sharada-sahoo-177227230
 
   sections:
     Education:
