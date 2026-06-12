@@ -37,4 +37,4 @@ These years also connected me with people across universities and national labs,
 
 Before Texas A&M, I completed my BS–MS at the **National Institute of Science Education and Research (NISER)**, India.
 
-Outside the lab I run (two half marathons so far), play cricket and badminton, and climb the occasional mountain.
+Outside the lab I run (two half marathons so far), play cricket and badminton, and climb the occasional mountain at various national parks.
