@@ -2,7 +2,7 @@
 layout: page
 title: March Mania – College Basketball Prediction
 description: A machine learning model for the Kaggle March Machine Learning Mania competition, predicting NCAA tournament game outcomes.
-img: assets/img/3.jpg
+img: assets/img/march_mania.jpg
 importance: 7
 category: machine learning
 ---
