@@ -12,6 +12,10 @@ profile:
     <p>UC Berkeley</p>
     <p>Berkeley, CA</p>
     <p>sharada@berkeley.edu</p>
+    <p style="margin-top:0.6rem; display:flex; gap:14px; align-items:center; flex-wrap:wrap;">
+      <a href="https://www.berkeley.edu/" target="_blank" rel="noopener"><img src="/assets/img/ucberkeley_logo.svg" alt="UC Berkeley" style="height:26px;"></a>
+      <a href="https://www.tamu.edu/" target="_blank" rel="noopener"><img src="/assets/img/tamu_logo.svg" alt="Texas A&amp;M University" style="height:26px;"></a>
+    </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
