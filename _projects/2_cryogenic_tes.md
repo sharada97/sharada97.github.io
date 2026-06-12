@@ -10,13 +10,11 @@ related_publications: true
 
 I work on superconducting cryogenic detectors for low-mass WIMP dark matter searches, characterizing and suppressing noise to push detector thresholds as low as possible.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/tes_cryostat_assembly.jpg" title="Checking detector electrical connections on the Bluefors dilution refrigerator" class="img-fluid rounded z-depth-1" %}
+<div style="float:right; width:45%; max-width:340px; margin:0.2rem 0 1rem 1.5rem;">
+    {% include figure.liquid loading="eager" path="assets/img/tes_cryostat_assembly.jpg" title="Checking detector electrical connections on the Bluefors dilution refrigerator" class="img-fluid rounded z-depth-1" %}
+    <div class="caption">
+        Checking the electrical connections of our detectors on the Bluefors dilution refrigerator. <em>Photo credit: Prof. Rupak Mahapatra.</em>
     </div>
-</div>
-<div class="caption">
-    Checking the electrical connections of our detectors on the Bluefors dilution refrigerator. <em>Photo credit: Prof. Rupak Mahapatra.</em>
 </div>
 
 Highlights:
