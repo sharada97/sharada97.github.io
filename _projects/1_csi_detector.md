@@ -19,6 +19,15 @@ I designed and constructed a ~100 kg CsI(Tl) detector instrumented with PMTs to 
     Design of the CsI(Tl) detector.
 </div>
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-10 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/csi_detector_assembled.jpg" title="Assembled CsI(Tl) detector with PMTs" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    The assembled ~100 kg CsI(Tl) detector, instrumented with photomultiplier tubes.
+</div>
+
 Highlights:
 
 - Evaluated SiPM feasibility and facilitated group procurement of ~\$200,000 in SiPMs and accessories from OnSemi.
