@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Experimental Physicist · Postdoc at <a href='https://www.berkeley.edu/'>UC Berkeley</a> · Dark matter, particle detectors & ML
+subtitle: Experimental Physicist · Postdoc at <a href='https://www.berkeley.edu/'>UC Berkeley</a> · Dark matter, particle detectors & Technology Enthusiast
 
 profile:
   align: right
