@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm an experimental physicist and a postdoctoral researcher at **UC Berkeley**. I earned my PhD in Physics from **Texas A&M University** (2021–2025), where I searched for dark matter and beyond-the-Standard-Model physics using ton-scale CsI(Tl) detectors and gram-scale superconducting sapphire detectors.
+I'm an experimental physicist and a postdoctoral researcher at **UC Berkeley**. I earned my PhD in Physics from **Texas A&M University** (2021–2025), where I searched for dark matter and beyond-the-Standard-Model physics using a range of detector technologies — from ton-scale, room-temperature CsI(Tl) photon detectors to gram-scale, cryogenic Si/sapphire phonon detectors.
 
 My work spans the full experimental stack — from fabricating semiconductor and superconducting devices and characterizing photon sensors (PMTs, SiPMs, APDs, TES) to running cryogenic experiments down to 8 mK and building the Python/ROOT pipelines that turn ~100 TB of detector data into physics results. I also work on machine learning, from multimodal prediction models to MCMC-based forecasting.
 
