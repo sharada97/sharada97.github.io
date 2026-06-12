@@ -35,3 +35,8 @@ Highlights:
 - Built real-time Python/ROOT analysis pipelines handling datasets up to ~100 TB.
 - Set sensitivity projections for ALP, Dark Photon, Dark Scalar, and Milli-Charged particles.
 - Characterized the detector with multiple radioisotopes (22Na, 57Co, 60Co, 133Ba, 46Sc, 137Cs, 90Sr, 55Fe, 241Am).
+
+**References:**
+
+- Paper: [Search for Dark Matter via Invisible Decay in $^{46}$Sc Nuclear Gamma Cascades Using a CsI(Tl) Detector (arXiv:2510.23001)](https://arxiv.org/abs/2510.23001v1)
+- PhD Thesis: [Texas A&M University OAKTrust repository](https://oaktrust.library.tamu.edu/items/0969bdf8-9386-43d4-aa9a-5471c21aa34b)
