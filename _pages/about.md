@@ -35,6 +35,6 @@ Along the way I've built instruments end to end. I led the construction of a ~10
 
 These years also connected me with people across universities and national labs, let me give talks at multiple institutes, mentor undergraduate and high-school students, and write papers and grant proposals — all of which deepened my interest in modern technology. What drives me is the goal of building technology that makes everyday life easier and healthier, and creating tools that other people actually use.
 
-Before Texas A&M, I completed my BS–MS at the **National Institute of Science Education and Research (NISER)**, India. I've presented at APS, CIPANP, and EXCESS, and have co-authored work on axion-like particle and dark matter searches.
+Before Texas A&M, I completed my BS–MS at the **National Institute of Science Education and Research (NISER)**, India.
 
 Outside the lab I run (two half marathons so far), play cricket and badminton, and climb the occasional mountain.
