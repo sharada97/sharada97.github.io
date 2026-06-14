@@ -10,4 +10,5 @@ category: software
 A lightweight scheduling tool that lets a lab book shared equipment in time slots, avoiding conflicts and double-booking.
 
 - Built as a modern web app with a calendar-style booking grid.
+- Live demo: [equipment-scheduler.vercel.app](https://equipment-scheduler.vercel.app/)
 - Code: [equipment-scheduler](https://github.com/sharada97/equipment-scheduler)
