@@ -8,7 +8,7 @@ category: physics
 related_publications: true
 ---
 
-I designed and constructed a ~100 kg CsI(Tl) detector instrumented with PMTs to search for dark matter and beyond-the-Standard-Model physics using radioisotope sources. From 1000 hours of data taken with a $^{46}$Sc radioactive source, we found no significant excess and set exclusion limits on three dark matter candidates — axions/ALPs, dark scalars, and dark photons. The detector has since been shipped to Los Alamos National Laboratory (LANL) to take data in a beam-based environment, and a ton-scale extension is currently under proposal review at LANL and ORNL.
+I designed and constructed a ~100 kg CsI(Tl) detector instrumented with 26 PMTs to collect gamma rays from a radioactive source placed at the center of the detector. I calibrated and characterized the detector with multiple radioisotopes, then automated the high-voltage control and DAQ to collect over 1000 hours of continuous data. I built real-time Python/ROOT analysis pipelines to process datasets up to ~100 TB. From 1000 hours of $^{46}$Sc source data, we found no significant excess and set exclusion limits on three dark matter candidates — axions/ALPs, dark scalars, and dark photons. I also evaluated SiPM feasibility and facilitated group procurement of ~\$200,000 in SiPMs and accessories from OnSemi. The detector has since been shipped to Los Alamos National Laboratory (LANL) for a beam-based dark matter search, and I am planning a ton-scale detector at Oak Ridge National Laboratory (ORNL) for deployment at the 85 MW HFIR reactor.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
@@ -30,11 +30,14 @@ I designed and constructed a ~100 kg CsI(Tl) detector instrumented with PMTs to 
 
 Highlights:
 
-- Evaluated SiPM feasibility and facilitated group procurement of ~\$200,000 in SiPMs and accessories from OnSemi.
-- Automated HV control and DAQ, collecting 1000+ hours of continuous data.
+- Designed and built a ~100 kg CsI(Tl) detector instrumented with 26 PMTs to collect gamma rays from a radioactive source placed at the center of the detector.
+- Calibrated and characterized the detector with multiple radioisotopes (22Na, 57Co, 60Co, 133Ba, 46Sc, 137Cs, 90Sr, 55Fe, 241Am).
+- Automated the high-voltage control and DAQ, collecting over 1000 hours of continuous data.
 - Built real-time Python/ROOT analysis pipelines handling datasets up to ~100 TB.
-- Analyzed 1000 hours of $^{46}$Sc source data with no significant excess; set exclusion limits on axions/ALPs, dark scalars, and dark photons.
-- Characterized the detector with multiple radioisotopes (22Na, 57Co, 60Co, 133Ba, 46Sc, 137Cs, 90Sr, 55Fe, 241Am).
+- Analyzed 1000 hours of $^{46}$Sc source data, found no significant excess, and set exclusion limits on axions/ALPs, dark scalars, and dark photons.
+- Evaluated SiPM feasibility and facilitated group procurement of ~\$200,000 in SiPMs and accessories from OnSemi.
+- Shipped the detector to Los Alamos National Laboratory (LANL) for a beam-based dark matter search.
+- Planning a ton-scale detector at Oak Ridge National Laboratory (ORNL) for deployment at the 85 MW HFIR reactor.
 
 **References:**
 
