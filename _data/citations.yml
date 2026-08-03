@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-31'
+  last_updated: '2026-08-03'
 papers:
   QK20JT8AAAAJ:2osOgNQ5qMEC:
     citations: 3
@@ -22,7 +22,7 @@ papers:
     title: Experimental Efforts Toward Dark Matter Searches Using CsI (Tl) Scintillator and Cryogenic TES-Based Detectors
     year: '2025'
   QK20JT8AAAAJ:Tyk-4Ss8FVUC:
-    citations: 2
+    citations: 5
     title: Low-energy calibration of SuperCDMS HVeV cryogenic silicon calorimeters using Compton steps
     year: '2025'
   QK20JT8AAAAJ:UeHWp8X0CEIC:
@@ -38,7 +38,7 @@ papers:
     title: Light dark matter constraints from SuperCDMS HVeV detectors operated underground with an anticoincidence event selection
     year: '2025'
   QK20JT8AAAAJ:WF5omc3nYNoC:
-    citations: 8
+    citations: 10
     title: Search for low-mass electron-recoil dark matter using a single-charge sensitive SuperCDMS-HVeV detector
     year: '2026'
   QK20JT8AAAAJ:Y0pCki6q_DkC:
@@ -46,7 +46,7 @@ papers:
     title: Developing a bubble chamber particle discriminator using semi-supervised learning
     year: '2018'
   QK20JT8AAAAJ:YsMSGLbcyi4C:
-    citations: 9
+    citations: 8
     title: MINER reactor based search for axionlike particles using sapphire () detectors
     year: '2025'
   QK20JT8AAAAJ:_FxGoFyzp5QC:
@@ -60,7 +60,7 @@ papers:
   QK20JT8AAAAJ:eQOLeE2rZwMC:
     citations: 1
     title: Multi-channel, multi-template event reconstruction for SuperCDMS data using machine learning
-    year: '2025'
+    year: '2026'
   QK20JT8AAAAJ:hqOjcs7Dif8C:
     citations: 0
     title: Search for Dark Sector Particles Using CsI (Tl) Detectors and Radioactive Sources via the Missing-Gamma Approach
@@ -74,6 +74,6 @@ papers:
     title: Searches for Axion-Like Particles (ALP) using reactor, proton beam and radioactive sources
     year: '2023'
   QK20JT8AAAAJ:ufrVoPGSRksC:
-    citations: 1
+    citations: 2
     title: 'CENS Search with Cryogenic Sapphire Detectors at MINER: Results from the TRIGA reactor data and Future Sensitivity at HFIR'
     year: '2025'
