@@ -1,6 +1,10 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-08-21'
 papers:
+  QK20JT8AAAAJ:0EnyYjriUFMC:
+    citations: 0
+    title: 'Design of ALPHA Phase I: A Plasma Haloscope for 10--20 GHz Post-Inflation Axions'
+    year: '2026'
   QK20JT8AAAAJ:2osOgNQ5qMEC:
     citations: 3
     title: Reactor-based search for axion-like particles using CsI (Tl) detector
@@ -26,7 +30,7 @@ papers:
     title: Low-energy calibration of SuperCDMS HVeV cryogenic silicon calorimeters using Compton steps
     year: '2025'
   QK20JT8AAAAJ:UeHWp8X0CEIC:
-    citations: 38
+    citations: 39
     title: First measurement of the nuclear-recoil ionization yield in silicon at 100 eV
     year: '2023'
   QK20JT8AAAAJ:UebtZRa9Y70C:
@@ -34,11 +38,11 @@ papers:
     title: Exploring Low Energy Excess in MINER with sapphire detectors using Convolutional Variational Autoencoder (CVAE)
     year: '2026'
   QK20JT8AAAAJ:W7OEmFMy1HYC:
-    citations: 44
+    citations: 47
     title: Light dark matter constraints from SuperCDMS HVeV detectors operated underground with an anticoincidence event selection
     year: '2025'
   QK20JT8AAAAJ:WF5omc3nYNoC:
-    citations: 10
+    citations: 11
     title: Search for low-mass electron-recoil dark matter using a single-charge sensitive SuperCDMS-HVeV detector
     year: '2026'
   QK20JT8AAAAJ:Y0pCki6q_DkC:
@@ -46,7 +50,7 @@ papers:
     title: Developing a bubble chamber particle discriminator using semi-supervised learning
     year: '2018'
   QK20JT8AAAAJ:YsMSGLbcyi4C:
-    citations: 8
+    citations: 10
     title: MINER reactor based search for axionlike particles using sapphire () detectors
     year: '2025'
   QK20JT8AAAAJ:_FxGoFyzp5QC:
