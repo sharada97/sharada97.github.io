@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-21'
+  last_updated: '2026-09-04'
 papers:
   QK20JT8AAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -30,7 +30,7 @@ papers:
     title: Low-energy calibration of SuperCDMS HVeV cryogenic silicon calorimeters using Compton steps
     year: '2025'
   QK20JT8AAAAJ:UeHWp8X0CEIC:
-    citations: 39
+    citations: 41
     title: First measurement of the nuclear-recoil ionization yield in silicon at 100 eV
     year: '2023'
   QK20JT8AAAAJ:UebtZRa9Y70C:
@@ -38,11 +38,11 @@ papers:
     title: Exploring Low Energy Excess in MINER with sapphire detectors using Convolutional Variational Autoencoder (CVAE)
     year: '2026'
   QK20JT8AAAAJ:W7OEmFMy1HYC:
-    citations: 47
+    citations: 50
     title: Light dark matter constraints from SuperCDMS HVeV detectors operated underground with an anticoincidence event selection
     year: '2025'
   QK20JT8AAAAJ:WF5omc3nYNoC:
-    citations: 11
+    citations: 12
     title: Search for low-mass electron-recoil dark matter using a single-charge sensitive SuperCDMS-HVeV detector
     year: '2026'
   QK20JT8AAAAJ:Y0pCki6q_DkC:
@@ -50,7 +50,7 @@ papers:
     title: Developing a bubble chamber particle discriminator using semi-supervised learning
     year: '2018'
   QK20JT8AAAAJ:YsMSGLbcyi4C:
-    citations: 10
+    citations: 11
     title: MINER reactor based search for axionlike particles using sapphire () detectors
     year: '2025'
   QK20JT8AAAAJ:_FxGoFyzp5QC:
@@ -79,5 +79,5 @@ papers:
     year: '2023'
   QK20JT8AAAAJ:ufrVoPGSRksC:
     citations: 2
-    title: 'CENS Search with Cryogenic Sapphire Detectors at MINER: Results from the TRIGA reactor data and Future Sensitivity at HFIR'
-    year: '2025'
+    title: ' search with cryogenic sapphire detectors at MINER: Results from the TRIGA reactor data and future sensitivity at HFIR'
+    year: '2026'
